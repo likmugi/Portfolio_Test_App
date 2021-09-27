@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_about_me">
+
+    <fragment
+        android:id="@+id/nav_about_me"
+        android:name="com.example.ipz_shamugiya.ui.aboutMe.AboutMeFragment"
+        android:label="About me"
+        tools:layout="@layout/fragment_about_me" />
+    <fragment
+        android:id="@+id/nav_university"
+        android:name="com.example.ipz_shamugiya.ui.university.UniversityFragment"
+        android:label="University"
+        tools:layout="@layout/fragment_university" />
+    <fragment
+        android:id="@+id/nav_portfolio"
+        android:name="com.example.ipz_shamugiya.ui.portfolio.PortfolioFragment"
+        android:label="Portfolio"
+        tools:layout="@layout/fragment_portfolio" />
+    <fragment
+        android:id="@+id/nav_contacts"
+        android:name="com.example.ipz_shamugiya.ui.contacts.ContactsFragment"
+        android:label="Contacts"
+        tools:layout="@layout/fragment_contacts" />
+
+</navigation>

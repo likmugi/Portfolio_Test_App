@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">IPZ_Shamugiya</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="header_name_user">Шамугия Лика</string>
+    <string name="header_email">shelley.bass.li@gmail.com</string>
+    <string name="about_me_full_name">Шамугия Лика</string>
+    <string name="about_me_status">Статус:</string>
+    <string name="about_me_drg">Магистрант</string>
+    <string name="about_me_year_drg">Курс:</string>
+    <string name="about_me_year_dgr_one">Первый</string>
+    <string name="about_me_title_about">Обо мне</string>
+    <string name="about_me_title_text">Меня зовут Лика. Я студентка первого курса магистратуры РГСУ направления Информатика и вычислительная техника. Данное приложение является моей страничкой - портфолио. Параллельно с учебой увлекаюсь увлекаюсь настольными играми. Обожаю котов. Довольно длительное время была event-волонтером.</string>
+    <string name="university_text_part_one">В 2020 году окончила РГСУ по направлению Прикладная математика и информатика. В тот же году посчастливилось остаться в этом же вузе при поступлении в магистратуру. И нисколько не пожалела. Кажется, что за год узнала больше, чем за 4 года обучения на бакалавриате.</string>
+    <string name="university_text_part_two">Несмотря на то, что тему выпускной работы я еще не выбрала, я хотела бы в ней уделить внимание актуальным средам кроссплатформенной разработки (Xamarin - MAUI, AvalinoaUI, Uno Platform) и новому концепту MVU (Model View Update).</string>
+    <string name="portfolio_text">Более подробно можете почитать в моем университетском портфолио. Для этого перейдите по ссылке ниже.</string>
+    <string name="portfolio_text_button">Открыть портфолио</string>
+    <string name="contacts_text">Связаться со мной можно следующим образом:</string>
+</resources>
